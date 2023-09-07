@@ -8,6 +8,7 @@
 
 - [Introduction](#introduction)
 - [Functions](#Functions)
+- [Demo Video](#demo-video)
 
   
 ## Introduction
@@ -32,9 +33,17 @@ With a wide range of functionalities, Vaidyah provides valuable information and 
 
 <img src="https://github.com/anotherwebguy/Vaidyah-Bot/assets/66346161/82aa9bc3-32c4-4216-9d11-94a5fadb7009">
 
+
+## Demo Video
+[(Back to top)](#list-of-contents) <br><br>
+
+[<img src="https://github.com/anotherwebguy/Vaidyah-Bot-Api/assets/66346161/c733b6d5-0444-4bad-9542-6a195c945644" width="50%">](https://www.youtube.com/watch?v=wiCEnYKxfmw)
+
+
+
 ----
 
-The Backend APIs code repository for Vaidyah Bot is ![Vaidyah-Bot-Api](https://github.com/anotherwebguy/Vaidyah-Bot-Api)
+The Backend APIs code repository for Vaidyah Bot is [Vaidyah-Bot-Api](https://github.com/anotherwebguy/Vaidyah-Bot-Api)
 
 
 
